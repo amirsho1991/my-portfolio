@@ -176,3 +176,30 @@ section {
     border-color: #60a5fa;
     color: #60a5fa;
 }
+/* Upwork Notice */
+.upwork-notice {
+    margin-top: 3rem;
+    padding: 1.5rem 2rem;
+    background: rgba(26, 211, 106, 0.1);
+    border: 1px solid #1ad16a;
+    border-radius: 12px;
+    text-align: center;
+    max-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.upwork-notice i {
+    font-size: 2.5rem;
+    color: #1ad16a;
+    margin-bottom: 0.8rem;
+}
+
+.upwork-notice p {
+    margin: 0.4rem 0;
+    color: #e2e8f0;
+}
+
+.upwork-notice strong {
+    color: #1ad16a;
+}
